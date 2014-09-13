@@ -1,0 +1,2 @@
+--A web app using ETSY RESTful API
+--Built using Backbone.js framework
